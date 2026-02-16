@@ -1,0 +1,10 @@
+[0202/165419.825:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.
+[0202/171048.110:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0203/092234.774:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0203/112102.511:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0203/120245.675:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0203/134642.394:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0203/141012.508:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0203/165810.768:ERROR:local_storage_context_mojo.cc(706)] Lost connection to database
+[0204/134642.379:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0204/141013.218:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
